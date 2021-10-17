@@ -11,3 +11,6 @@ buildNumber.properties
 .classpath
 .idea
 .settings
+src/main/resources/vendas-games-filtrados.csv
+.idea/compiler.xml
+.idea/compiler.xml
